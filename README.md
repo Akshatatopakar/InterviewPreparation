@@ -5,3 +5,10 @@ I develop an web application Interview Prepartion. In this project multiple comp
 1.Vs Code
 2.node js
 
+#How do run
+firstly intsall node js 
+GO to vs code than upload this folder main file index.html
+GO termial change project path type npm run dev and link on the below link.
+
+
+
